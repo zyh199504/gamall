@@ -1,0 +1,5 @@
+server:
+  port: 8000
+mybatis:
+  type-aliases-package: com.demo.bean
+  mapper-locations: classpath:mapper/*Mapper.xml
